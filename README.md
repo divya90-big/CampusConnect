@@ -1,31 +1,26 @@
 # CampusConnect
 
-CampusConnect is a placement preparation platform designed to help college students prepare effectively for campus recruitment.
+CampusConnect is a placement preparation platform designed to help college students prepare effectively for campus recruitment by bringing essential preparation resources together in one centralized system.
 
-Features:
-- Aptitude preparation resources
-- Resume builder with manual and AI-based options
-- Mock aptitude tests
-- Programming practice resources
-- Interview preparation resources
-- Centralized dashboard for easy access
+## Problem Statement
 
-Purpose:
-To reduce the difficulty students face while preparing for placements by organizing useful preparation resources in one place.
+Students often face difficulties during placement preparation because resources for aptitude practice, resume building, interview preparation, and coding practice are scattered across multiple platforms. CampusConnect solves this problem by organizing these resources in one place for easier access.
 
-# Run and deploy your AI Studio app
+## Features
 
-This contains everything you need to run your app locally.
+* Aptitude Preparation Module with curated learning and practice resources
+* Resume Builder with both manual resume creation and AI-assisted resume generation options
+* Mock Exam Module for aptitude practice and assessment preparation
+* Programming Practice Resources for coding interview preparation
+* Interview Preparation Module containing technical and HR interview questions
+* Centralized Dashboard providing seamless access to all modules
 
-View your app in AI Studio: https://ai.studio/apps/drive/1cHG_4GHh9PW_9JE5oeX9T_n5lOORPuHz
+## Purpose
 
-## Run Locally
+The project aims to simplify the placement preparation process by reducing the effort students spend searching for useful resources and by creating a structured preparation experience.
 
-**Prerequisites:**  Node.js
+## Highlights
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* Designed as a solo hackathon project
+* Built to improve placement preparation accessibility for students
+* Centralized multiple preparation resources into a single platform
