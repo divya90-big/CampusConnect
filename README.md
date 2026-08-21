@@ -1,20 +1,36 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# CampusConnect
 
-# Run and deploy your AI Studio app
+CampusConnect is a placement preparation platform designed to help college students prepare effectively for campus recruitment by bringing essential preparation resources together in one centralized system.
 
-This contains everything you need to run your app locally.
+## Problem Statement
 
-View your app in AI Studio: https://ai.studio/apps/drive/1cHG_4GHh9PW_9JE5oeX9T_n5lOORPuHz
+Students often face difficulties during placement preparation because resources for aptitude practice, resume building, interview preparation, and coding practice are scattered across multiple platforms. CampusConnect solves this problem by organizing these resources in one place for easier access.
 
-## Run Locally
+## Features
 
-**Prerequisites:**  Node.js
+- **Aptitude Preparation Module:** Curated learning and practice resources for quantitative and logical reasoning.
+- **Resume Builder:** Manual resume creation alongside AI-assisted resume generation.
+- **Mock Exam Module:** Aptitude practice tests and assessment simulations.
+- **Programming Practice Resources:** Targeted materials for coding interview preparation.
+- **Interview Preparation Module:** Technical and HR interview questions library.
+- **Centralized Dashboard:** Unified hub providing easy navigation across all modules.
 
+## Highlights
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Designed as a solo hackathon project.
+- Built to improve placement preparation accessibility for students.
+- Centralized multiple preparation resources into a single platform.
+
+## Tech Stack
+
+- **Frontend:** React, TypeScript, HTML5, CSS3 / Tailwind CSS
+- **AI & API Integration:** Google Gemini API (via Google AI Studio)
+- **Environment & Build:** Node.js, Vite
+- **Version Control:** Git & GitHub
+
+## Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/divya90-big/CampusConnect.git](https://github.com/divya90-big/CampusConnect.git)
+   cd CampusConnect
