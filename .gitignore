@@ -1,3 +1,9 @@
+# Environment variables & API keys (CRITICAL)
+.env
+.env*
+*.env
+!.env.example
+
 # Logs
 logs
 *.log
@@ -7,12 +13,15 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
+# Dependencies
+node_modules/
+
+# Build outputs
 dist
 dist-ssr
 *.local
 
-# Editor directories and files
+# Editor & System files
 .vscode/*
 !.vscode/extensions.json
 .idea
