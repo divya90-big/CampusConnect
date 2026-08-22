@@ -49,3 +49,15 @@ Create a `.env.local` file and add the required API key.
 ### 5. Start the development server
 
 npm run dev
+
+## Screenshots
+
+<img width="1913" height="1022" alt="Dashboard" src="https://github.com/user-attachments/assets/69c58eaa-0ead-46be-8098-4f590447d3c7" />
+
+<img width="1913" height="1012" alt="Resume_AI" src="https://github.com/user-attachments/assets/687ef32b-9c2b-4f6b-ba84-17b16001e41b" />
+
+<img width="1903" height="1022" alt="Interview" src="https://github.com/user-attachments/assets/cb0cb44d-3c13-47c7-a460-1af3ed2a20fa" />
+
+<img width="1917" height="1010" alt="AptitudePractice" src="https://github.com/user-attachments/assets/4221a22a-8be2-4d73-857c-6eacc04b21c2" />
+
+<img width="1869" height="940" alt="Technical" src="https://github.com/user-attachments/assets/3afbdb5a-64ad-41fb-baa7-249f40c7d16e" />
