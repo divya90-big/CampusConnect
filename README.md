@@ -15,6 +15,25 @@ Students often face difficulties during placement preparation because resources 
 - **Interview Preparation Module:** Technical and HR interview questions library.
 - **Centralized Dashboard:** Unified hub providing easy navigation across all modules.
 
+## Screenshots
+
+### DashBoard
+
+<img width="1913" height="1022" alt="Dashboard" src="https://github.com/user-attachments/assets/69c58eaa-0ead-46be-8098-4f590447d3c7" />
+
+### Resume Building using AI
+
+<img width="1913" height="1012" alt="Resume_AI" src="https://github.com/user-attachments/assets/687ef32b-9c2b-4f6b-ba84-17b16001e41b" />
+
+### Interview Library
+
+<img width="1903" height="1022" alt="Interview" src="https://github.com/user-attachments/assets/cb0cb44d-3c13-47c7-a460-1af3ed2a20fa" />
+
+### Aptitude Assessment
+
+<img width="1917" height="1010" alt="AptitudePractice" src="https://github.com/user-attachments/assets/4221a22a-8be2-4d73-857c-6eacc04b21c2" />
+
+
 ## Highlights
 
 - Designed as a solo hackathon project.
@@ -49,24 +68,6 @@ Create a `.env.local` file and add the required API key.
 ### 5. Start the development server
 
 npm run dev
-
-## Screenshots
-
-### DashBoard
-
-<img width="1913" height="1022" alt="Dashboard" src="https://github.com/user-attachments/assets/69c58eaa-0ead-46be-8098-4f590447d3c7" />
-
-### Resume Building using AI
-
-<img width="1913" height="1012" alt="Resume_AI" src="https://github.com/user-attachments/assets/687ef32b-9c2b-4f6b-ba84-17b16001e41b" />
-
-### Interview Library
-
-<img width="1903" height="1022" alt="Interview" src="https://github.com/user-attachments/assets/cb0cb44d-3c13-47c7-a460-1af3ed2a20fa" />
-
-### Aptitude Assessment
-
-<img width="1917" height="1010" alt="AptitudePractice" src="https://github.com/user-attachments/assets/4221a22a-8be2-4d73-857c-6eacc04b21c2" />
 
 ### Technical Resources
 
