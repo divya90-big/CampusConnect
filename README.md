@@ -42,7 +42,7 @@ Students often face difficulties during placement preparation because resources 
 
 ## Tech Stack
 
-- **Frontend:** React, TypeScript, HTML5, CSS3 / Tailwind CSS
+- **Frontend:** React, TypeScript, HTML, CSS
 - **AI & API Integration:** Google Gemini API (via Google AI Studio)
 - **Environment & Build:** Node.js, Vite
 - **Version Control:** Git & GitHub
